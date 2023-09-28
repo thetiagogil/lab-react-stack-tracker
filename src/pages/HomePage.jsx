@@ -11,7 +11,7 @@ function HomePage(props) {
           <div key={oneComp.id}>
             <Link to={`/company/${oneComp.slug}`}>
               <p>{oneComp.name}</p>
-              <img src={oneComp.logo} style={{ height: 100 }} />
+              <img src={oneComp.logo} style={{ height: 150 }} />
             </Link>
           </div>
         );
