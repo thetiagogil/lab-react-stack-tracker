@@ -161,13 +161,6 @@
     "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/hadoop-logo.png"
   },
   {
-    "id": "2e90f972-c10f-4f3e-9416-cc4f5e524ad2",
-    "slug": "heroku",
-    "name": "Heroku",
-    "description": "A cloud platform as a service (PaaS) that enables developers to build, run, and scale applications effortlessly.",
-    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/heroku-logo.png"
-  },
-  {
     "id": "38a72b41-4e47-43d5-9d24-1d85e6c70074",
     "slug": "java",
     "name": "Java",
@@ -320,13 +313,6 @@
     "name": "PostgreSQL",
     "description": "PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.",
     "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postgresql-logo.png"
-  },
-  {
-    "id": "6a218d19-2962-4c87-9a10-0a825f129ed0",
-    "slug": "postman",
-    "name": "Postman",
-    "description": "A collaboration platform for API development that also includes powerful testing capabilities.",
-    "image": "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/lab-react-stack-tracker/logos/postman-logo.png"
   },
   {
     "id": "6c70e2f1-8ed7-4d48-b297-22137c3fd33e",
